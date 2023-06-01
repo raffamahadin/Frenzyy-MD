@@ -1,1 +1,1 @@
-worker: npm star
+worker: node . --session 'session.data.json'
